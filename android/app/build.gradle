@@ -71,7 +71,7 @@ private void checkApplicationIdInDebug() {
 task checkRelease {
     doLast {
         println("checkRelease")
-        if (android.defaultConfig.applicationId.startsWith("com.example")) {
+        if (android.defaultConfig.applicationId.startsWith("com.example.telegramsourcesticker")) {
             throw new GradleException("applicationId in defaultConfig cannot start with com.example, please change your applicationId in app/build.gradle");
         }
     }

@@ -5,7 +5,7 @@
     {
       "identifier": "1",
       "name": "Monica Ata",
-      "publisher": "Pedro",
+      "publisher": "Pedro H B Cavalcante",
       "tray_image_file": "651305736.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -95,7 +95,7 @@
     {
       "identifier": "2",
       "name": "Monica Ata - parte 2",
-      "publisher": "Pedro",
+      "publisher": "Pedro H B Cavalcante",
       "tray_image_file": "651305736.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -194,7 +194,7 @@
     {
       "identifier": "3",
       "name": "Gavin Reacts",
-      "publisher": "Pedro",
+      "publisher": "Pedro H B Cavalcante",
       "tray_image_file": "1357138140.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -296,7 +296,7 @@
     {
       "identifier": "4",
       "name": "Gavin Reacts",
-      "publisher": "Pedro",
+      "publisher": "Pedro H B Cavalcante",
       "tray_image_file": "1357138140.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -398,7 +398,7 @@
     {
       "identifier": "5",
       "name": "Gavin Reacts",
-      "publisher": "Pedro",
+      "publisher": "Pedro H B Cavalcante",
       "tray_image_file": "1357138140.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -443,7 +443,7 @@
     {
       "identifier": "6",
       "name": "Dilmãe",
-      "publisher": "Pedro",
+      "publisher": "Pedro H B Cavalcante",
       "tray_image_file": "97648247.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -479,7 +479,7 @@
     {
       "identifier": "7",
       "name": "Ranger Rosa",
-      "publisher": "Pedro",
+      "publisher": "Pedro H B Cavalcante",
       "tray_image_file": "1215373291.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -581,7 +581,7 @@
     {
       "identifier": "8",
       "name": "Ranger Rosa",
-      "publisher": "Pedro",
+      "publisher": "Pedro H B Cavalcante",
       "tray_image_file": "1215373291.png",
       "publisher_email": "",
       "publisher_website": "",
@@ -673,6 +673,533 @@
           "image_file": "file_15669293.webp"
         }
       ]
+    },
+    {
+      "identifier": "9",
+      "name": "Bahls",
+      "publisher": "Pedro H B Cavalcante",
+      "tray_image_file": "1490357744.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_15669350.webp"
+        },
+        {
+          "image_file": "file_15669352.webp"
+        },
+        {
+          "image_file": "file_15669353.webp"
+        },
+        {
+          "image_file": "file_15669355.webp"
+        },
+        {
+          "image_file": "file_15669357.webp"
+        },
+        {
+          "image_file": "file_15669358.webp"
+        },
+        {
+          "image_file": "file_15669360.webp"
+        },
+        {
+          "image_file": "file_15669362.webp"
+        },
+        {
+          "image_file": "file_15669363.webp"
+        },
+        {
+          "image_file": "file_15669365.webp"
+        },
+        {
+          "image_file": "file_15669367.webp"
+        },
+        {
+          "image_file": "file_15669368.webp"
+        },
+        {
+          "image_file": "file_15669370.webp"
+        },
+        {
+          "image_file": "file_15669372.webp"
+        },
+        {
+          "image_file": "file_15669374.webp"
+        },
+        {
+          "image_file": "file_15669375.webp"
+        },
+        {
+          "image_file": "file_15669377.webp"
+        },
+        {
+          "image_file": "file_15669378.webp"
+        },
+        {
+          "image_file": "file_15669380.webp"
+        },
+        {
+          "image_file": "file_15669382.webp"
+        },
+        {
+          "image_file": "file_15669384.webp"
+        },
+        {
+          "image_file": "file_15669385.webp"
+        },
+        {
+          "image_file": "file_15669387.webp"
+        },
+        {
+          "image_file": "file_15669390.webp"
+        },
+        {
+          "image_file": "file_15669392.webp"
+        },
+        {
+          "image_file": "file_15669395.webp"
+        },
+        {
+          "image_file": "file_15669397.webp"
+        },
+        {
+          "image_file": "file_15669400.webp"
+        },
+        {
+          "image_file": "file_15669403.webp"
+        },
+        {
+          "image_file": "file_15669405.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Bahls",
+      "publisher": "Pedro H B Cavalcante",
+      "tray_image_file": "1490357744.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_15669408.webp"
+        },
+        {
+          "image_file": "file_15669411.webp"
+        },
+        {
+          "image_file": "file_15669413.webp"
+        },
+        {
+          "image_file": "file_15669416.webp"
+        },
+        {
+          "image_file": "file_15669418.webp"
+        },
+        {
+          "image_file": "file_15669422.webp"
+        },
+        {
+          "image_file": "file_15669425.webp"
+        },
+        {
+          "image_file": "file_15669427.webp"
+        },
+        {
+          "image_file": "file_15669429.webp"
+        },
+        {
+          "image_file": "file_15669431.webp"
+        },
+        {
+          "image_file": "file_15669433.webp"
+        },
+        {
+          "image_file": "file_15669434.webp"
+        },
+        {
+          "image_file": "file_15669436.webp"
+        },
+        {
+          "image_file": "file_15669438.webp"
+        },
+        {
+          "image_file": "file_15669439.webp"
+        },
+        {
+          "image_file": "file_15669441.webp"
+        },
+        {
+          "image_file": "file_15669443.webp"
+        },
+        {
+          "image_file": "file_15669444.webp"
+        },
+        {
+          "image_file": "file_15669445.webp"
+        },
+        {
+          "image_file": "file_15669446.webp"
+        },
+        {
+          "image_file": "file_15669447.webp"
+        },
+        {
+          "image_file": "file_15669448.webp"
+        },
+        {
+          "image_file": "file_15669449.webp"
+        },
+        {
+          "image_file": "file_15669450.webp"
+        },
+        {
+          "image_file": "file_15669451.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Barbie Irônica",
+      "publisher": "Pedro H B Cavalcante",
+      "tray_image_file": "191072812.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_15693757.webp"
+        },
+        {
+          "image_file": "file_15693759.webp"
+        },
+        {
+          "image_file": "file_15693760.webp"
+        },
+        {
+          "image_file": "file_15693761.webp"
+        },
+        {
+          "image_file": "file_15693762.webp"
+        },
+        {
+          "image_file": "file_15693763.webp"
+        },
+        {
+          "image_file": "file_15693765.webp"
+        },
+        {
+          "image_file": "file_15693767.webp"
+        },
+        {
+          "image_file": "file_15693769.webp"
+        },
+        {
+          "image_file": "file_15693770.webp"
+        },
+        {
+          "image_file": "file_15693773.webp"
+        },
+        {
+          "image_file": "file_15693774.webp"
+        },
+        {
+          "image_file": "file_15693775.webp"
+        },
+        {
+          "image_file": "file_15693777.webp"
+        },
+        {
+          "image_file": "file_15693778.webp"
+        },
+        {
+          "image_file": "file_15693779.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Girls in the House",
+      "publisher": "Pedro H B Cavalcante",
+      "tray_image_file": "1816081487.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_15694217.webp"
+        },
+        {
+          "image_file": "file_15694219.webp"
+        },
+        {
+          "image_file": "file_15694220.webp"
+        },
+        {
+          "image_file": "file_15694221.webp"
+        },
+        {
+          "image_file": "file_15694222.webp"
+        },
+        {
+          "image_file": "file_15694223.webp"
+        },
+        {
+          "image_file": "file_15694224.webp"
+        },
+        {
+          "image_file": "file_15694225.webp"
+        },
+        {
+          "image_file": "file_15694227.webp"
+        },
+        {
+          "image_file": "file_15694228.webp"
+        },
+        {
+          "image_file": "file_15694229.webp"
+        },
+        {
+          "image_file": "file_15694230.webp"
+        },
+        {
+          "image_file": "file_15694231.webp"
+        },
+        {
+          "image_file": "file_15694232.webp"
+        },
+        {
+          "image_file": "file_15694233.webp"
+        },
+        {
+          "image_file": "file_15694234.webp"
+        },
+        {
+          "image_file": "file_15694235.webp"
+        },
+        {
+          "image_file": "file_15694236.webp"
+        },
+        {
+          "image_file": "file_15694237.webp"
+        },
+        {
+          "image_file": "file_15694238.webp"
+        },
+        {
+          "image_file": "file_15694239.webp"
+        },
+        {
+          "image_file": "file_15694241.webp"
+        },
+        {
+          "image_file": "file_15694242.webp"
+        },
+        {
+          "image_file": "file_15694243.webp"
+        },
+        {
+          "image_file": "file_15694244.webp"
+        },
+        {
+          "image_file": "file_15694245.webp"
+        },
+        {
+          "image_file": "file_15694246.webp"
+        },
+        {
+          "image_file": "file_15694247.webp"
+        },
+        {
+          "image_file": "file_15694248.webp"
+        },
+        {
+          "image_file": "file_15694249.webp"
+        }
+
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Girls in the House",
+      "publisher": "Pedro H B Cavalcante",
+      "tray_image_file": "1816081487.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_15694250.webp"
+        },
+        {
+          "image_file": "file_15694251.webp"
+        },
+        {
+          "image_file": "file_15694252.webp"
+        },
+        {
+          "image_file": "file_15694253.webp"
+        },
+        {
+          "image_file": "file_15694254.webp"
+        },
+        {
+          "image_file": "file_15694255.webp"
+        },
+        {
+          "image_file": "file_15694256.webp"
+        },
+        {
+          "image_file": "file_15694257.webp"
+        },
+        {
+          "image_file": "file_15694258.webp"
+        },
+        {
+          "image_file": "file_15694259.webp"
+        },
+        {
+          "image_file": "file_15694260.webp"
+        },
+        {
+          "image_file": "file_15694261.webp"
+        },
+        {
+          "image_file": "file_15694263.webp"
+        },
+        {
+          "image_file": "file_15694264.webp"
+        },
+        {
+          "image_file": "file_15694265.webp"
+        },
+        {
+          "image_file": "file_15694266.webp"
+        },
+        {
+          "image_file": "file_15694267.webp"
+        },
+        {
+          "image_file": "file_15694269.webp"
+        },
+        {
+          "image_file": "file_15694270.webp"
+        },
+        {
+          "image_file": "file_15694271.webp"
+        },
+        {
+          "image_file": "file_15694272.webp"
+        },
+        {
+          "image_file": "file_15694273.webp"
+        },
+        {
+          "image_file": "file_15694274.webp"
+        },
+        {
+          "image_file": "file_15694276.webp"
+        },
+        {
+          "image_file": "file_15694277.webp"
+        },
+        {
+          "image_file": "file_15694278.webp"
+        },
+        {
+          "image_file": "file_15694279.webp"
+        },
+        {
+          "image_file": "file_15694280.webp"
+        },
+        {
+          "image_file": "file_15694281.webp"
+        },
+        {
+          "image_file": "file_15694282.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Girls in the House",
+      "publisher": "Pedro H B Cavalcante",
+      "tray_image_file": "1816081487.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_15694283.webp"
+        },
+        {
+          "image_file": "file_15694284.webp"
+        },
+        {
+          "image_file": "file_15694286.webp"
+        },
+        {
+          "image_file": "file_15694287.webp"
+        },
+        {
+          "image_file": "file_15694289.webp"
+        },
+        {
+          "image_file": "file_15694290.webp"
+        },
+        {
+          "image_file": "file_15694291.webp"
+        },
+        {
+          "image_file": "file_15694292.webp"
+        },
+        {
+          "image_file": "file_15694293.webp"
+        },
+        {
+          "image_file": "file_15694294.webp"
+        },
+        {
+          "image_file": "file_15694295.webp"
+        },
+        {
+          "image_file": "file_15694296.webp"
+        },
+        {
+          "image_file": "file_15694297.webp"
+        },
+        {
+          "image_file": "file_15694298.webp"
+        },
+        {
+          "image_file": "file_15694299.webp"
+        },
+        {
+          "image_file": "file_15694301.webp"
+        },
+        {
+          "image_file": "file_15694302.webp"
+        },
+        {
+          "image_file": "file_15694303.webp"
+        },
+        {
+          "image_file": "file_15694304.webp"
+        },
+        {
+          "image_file": "file_15694305.webp"
+        }
+      ]
     }
+
   ]
 }

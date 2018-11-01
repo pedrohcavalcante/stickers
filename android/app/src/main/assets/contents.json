@@ -4,113 +4,673 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "Monica Ata",
+      "publisher": "Pedro",
+      "tray_image_file": "651305736.png",
       "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "file_15667105.webp"
+        },
+        {
+          "image_file": "file_15667106.webp"
+        },
+        {
+          "image_file": "file_15667107.webp"
+        },
+        {
+          "image_file": "file_15667108.webp"
+        },
+        {
+          "image_file": "file_15667109.webp"
+        },
+        {
+          "image_file": "file_15667110.webp"
+        },
+        {
+          "image_file": "file_15667111.webp"
+        },
+        {
+          "image_file": "file_15667112.webp"
+        },
+        {
+          "image_file": "file_15667113.webp"
+        },
+        {
+          "image_file": "file_15667114.webp"
+        },
+        {
+          "image_file": "file_15667116.webp"
+        },
+        {
+          "image_file": "file_15667117.webp"
+        },
+        {
+          "image_file": "file_15667118.webp"
+        },
+        {
+          "image_file": "file_15667119.webp"
+        },
+        {
+          "image_file": "file_15667120.webp"
+        },
+        {
+          "image_file": "file_15667121.webp"
+        },
+        {
+          "image_file": "file_15667122.webp"
+        },
+        {
+          "image_file": "file_15667123.webp"
+        },
+        {
+          "image_file": "file_15667124.webp"
+        },
+        {
+          "image_file": "file_15667125.webp"
+        },
+        {
+          "image_file": "file_15667126.webp"
+        },
+        {
+          "image_file": "file_15667127.webp"
+        },
+        {
+          "image_file": "file_15667128.webp"
+        },
+        {
+          "image_file": "file_15667129.webp"
+        },
+        {
+          "image_file": "file_15667130.webp"
+        },
+        {
+          "image_file": "file_15667185.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Monica Ata - parte 2",
+      "publisher": "Pedro",
+      "tray_image_file": "651305736.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "file_15667131.webp"
+        },
+        {
+          "image_file": "file_15667132.webp"
+        },
+        {
+          "image_file": "file_15667133.webp"
+        },
+        {
+          "image_file": "file_15667134.webp"
+        },
+        {
+          "image_file": "file_15667135.webp"
+        },
+        {
+          "image_file": "file_15667136.webp"
+        },
+        {
+          "image_file": "file_15667137.webp"
+        },
+        {
+          "image_file": "file_15667138.webp"
+        },
+        {
+          "image_file": "file_15667140.webp"
+        },
+        {
+          "image_file": "file_15667143.webp"
+        },
+        {
+          "image_file": "file_15667147.webp"
+        },
+        {
+          "image_file": "file_15667150.webp"
+        },
+        {
+          "image_file": "file_15667151.webp"
+        },
+        {
+          "image_file": "file_15667152.webp"
+        },
+        {
+          "image_file": "file_15667153.webp"
+        },
+        {
+          "image_file": "file_15667161.webp"
+        },
+        {
+          "image_file": "file_15667162.webp"
+        },
+        {
+          "image_file": "file_15667163.webp"
+        },
+        {
+          "image_file": "file_15667169.webp"
+        },
+        {
+          "image_file": "file_15667170.webp"
+        },
+        {
+          "image_file": "file_15667171.webp"
+        },
+        {
+          "image_file": "file_15667172.webp"
+        },
+        {
+          "image_file": "file_15667173.webp"
+        },
+        {
+          "image_file": "file_15667174.webp"
+        },
+        {
+          "image_file": "file_15667175.webp"
+        },
+        {
+          "image_file": "file_15667176.webp"
+        },
+        {
+          "image_file": "file_15667177.webp"
+        },
+        {
+          "image_file": "file_15667179.webp"
+        },
+        {
+          "image_file": "file_15667181.webp"
+        }
+        ]
+    },
+    {
+      "identifier": "3",
+      "name": "Gavin Reacts",
+      "publisher": "Pedro",
+      "tray_image_file": "1357138140.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "file_15651130.webp"
+        },
+        {
+          "image_file": "file_15651133.webp"
+        },
+        {
+          "image_file": "file_15651134.webp"
+        },
+        {
+          "image_file": "file_15651135.webp"
+        },
+        {
+          "image_file": "file_15651136.webp"
+        },
+        {
+          "image_file": "file_15651137.webp"
+        },
+        {
+          "image_file": "file_15651139.webp"
+        },
+        {
+          "image_file": "file_15651140.webp"
+        },
+        {
+          "image_file": "file_15651142.webp"
+        },
+        {
+          "image_file": "file_15651143.webp"
+        },
+        {
+          "image_file": "file_15651144.webp"
+        },
+        {
+          "image_file": "file_15651145.webp"
+        },
+        {
+          "image_file": "file_15651146.webp"
+        },
+        {
+          "image_file": "file_15651147.webp"
+        },
+        {
+          "image_file": "file_15651148.webp"
+        },
+        {
+          "image_file": "file_15651149.webp"
+        },
+        {
+          "image_file": "file_15651150.webp"
+        },
+        {
+          "image_file": "file_15651151.webp"
+        },
+        {
+          "image_file": "file_15651152.webp"
+        },
+        {
+          "image_file": "file_15651153.webp"
+        },
+        {
+          "image_file": "file_15651154.webp"
+        },
+        {
+          "image_file": "file_15651155.webp"
+        },
+        {
+          "image_file": "file_15651156.webp"
+        },
+        {
+          "image_file": "file_15651158.webp"
+        },
+        {
+          "image_file": "file_15651159.webp"
+        },
+        {
+          "image_file": "file_15651160.webp"
+        },
+        {
+          "image_file": "file_15651161.webp"
+        },
+        {
+          "image_file": "file_15651162.webp"
+        },
+        {
+          "image_file": "file_15651163.webp"
+        },
+        {
+          "image_file": "file_15651164.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Gavin Reacts",
+      "publisher": "Pedro",
+      "tray_image_file": "1357138140.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "file_15651165.webp"
+        },
+        {
+          "image_file": "file_15651166.webp"
+        },
+        {
+          "image_file": "file_15651167.webp"
+        },
+        {
+          "image_file": "file_15651168.webp"
+        },
+        {
+          "image_file": "file_15651169.webp"
+        },
+        {
+          "image_file": "file_15651170.webp"
+        },
+        {
+          "image_file": "file_15651172.webp"
+        },
+        {
+          "image_file": "file_15651175.webp"
+        },
+        {
+          "image_file": "file_15651176.webp"
+        },
+        {
+          "image_file": "file_15651177.webp"
+        },
+        {
+          "image_file": "file_15651180.webp"
+        },
+        {
+          "image_file": "file_15651181.webp"
+        },
+        {
+          "image_file": "file_15651182.webp"
+        },
+        {
+          "image_file": "file_15651183.webp"
+        },
+        {
+          "image_file": "file_15651184.webp"
+        },
+        {
+          "image_file": "file_15651185.webp"
+        },
+        {
+          "image_file": "file_15651186.webp"
+        },
+        {
+          "image_file": "file_15651187.webp"
+        },
+        {
+          "image_file": "file_15651188.webp"
+        },
+        {
+          "image_file": "file_15651189.webp"
+        },
+        {
+          "image_file": "file_15651191.webp"
+        },
+        {
+          "image_file": "file_15651190.webp"
+        },
+        {
+          "image_file": "file_15651192.webp"
+        },
+        {
+          "image_file": "file_15651193.webp"
+        },
+        {
+          "image_file": "file_15651194.webp"
+        },
+        {
+          "image_file": "file_15651195.webp"
+        },
+        {
+          "image_file": "file_15651196.webp"
+        },
+        {
+          "image_file": "file_15651197.webp"
+        },
+        {
+          "image_file": "file_15651198.webp"
+        },
+        {
+          "image_file": "file_15651199.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Gavin Reacts",
+      "publisher": "Pedro",
+      "tray_image_file": "1357138140.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "file_15651201.webp"
+        },
+        {
+          "image_file": "file_15651202.webp"
+        },
+        {
+          "image_file": "file_15651203.webp"
+        },
+        {
+          "image_file": "file_15651204.webp"
+        },
+        {
+          "image_file": "file_15651205.webp"
+        },
+        {
+          "image_file": "file_15651206.webp"
+        },
+        {
+          "image_file": "file_15651207.webp"
+        },
+        {
+          "image_file": "file_15651208.webp"
+        },
+        {
+          "image_file": "file_15651209.webp"
+        },
+        {
+          "image_file": "file_15651210.webp"
+        },
+        {
+          "image_file": "file_15651212.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Dilmãe",
+      "publisher": "Pedro",
+      "tray_image_file": "97648247.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "file_15669096.webp"
+        },
+        {
+          "image_file": "file_15669097.webp"
+        },
+        {
+          "image_file": "file_15669098.webp"
+        },
+        {
+          "image_file": "file_15669099.webp"
+        },
+        {
+          "image_file": "file_15669100.webp"
+        },
+        {
+          "image_file": "file_15669102.webp"
+        },
+        {
+          "image_file": "file_15669103.webp"
+        },
+        {
+          "image_file": "file_15669104.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Ranger Rosa",
+      "publisher": "Pedro",
+      "tray_image_file": "1215373291.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "file_15669232.webp"
+        },
+        {
+          "image_file": "file_15669234.webp"
+        },
+        {
+          "image_file": "file_15669235.webp"
+        },
+        {
+          "image_file": "file_15669236.webp"
+        },
+        {
+          "image_file": "file_15669237.webp"
+        },
+        {
+          "image_file": "file_15669238.webp"
+        },
+        {
+          "image_file": "file_15669239.webp"
+        },
+        {
+          "image_file": "file_15669240.webp"
+        },
+        {
+          "image_file": "file_15669242.webp"
+        },
+        {
+          "image_file": "file_15669243.webp"
+        },
+        {
+          "image_file": "file_15669244.webp"
+        },
+        {
+          "image_file": "file_15669245.webp"
+        },
+        {
+          "image_file": "file_15669247.webp"
+        },
+        {
+          "image_file": "file_15669248.webp"
+        },
+        {
+          "image_file": "file_15669249.webp"
+        },
+        {
+          "image_file": "file_15669250.webp"
+        },
+        {
+          "image_file": "file_15669251.webp"
+        },
+        {
+          "image_file": "file_15669252.webp"
+        },
+        {
+          "image_file": "file_15669253.webp"
+        },
+        {
+          "image_file": "file_15669254.webp"
+        },
+        {
+          "image_file": "file_15669255.webp"
+        },
+        {
+          "image_file": "file_15669256.webp"
+        },
+        {
+          "image_file": "file_15669257.webp"
+        },
+        {
+          "image_file": "file_15669258.webp"
+        },
+        {
+          "image_file": "file_15669260.webp"
+        },
+        {
+          "image_file": "file_15669261.webp"
+        },
+        {
+          "image_file": "file_15669262.webp"
+        },
+        {
+          "image_file": "file_15669263.webp"
+        },
+        {
+          "image_file": "file_15669264.webp"
+        },
+        {
+          "image_file": "file_15669265.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Ranger Rosa",
+      "publisher": "Pedro",
+      "tray_image_file": "1215373291.png",
+      "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "file_15669266.webp"
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "file_15669267.webp"
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "file_15669268.webp"
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "file_15669269.webp"
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
-          "emojis": ["😭","💧"]
+          "image_file": "file_15669270.webp"
         },
         {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
+          "image_file": "file_15669271.webp"
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "file_15669272.webp"
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
+          "image_file": "file_15669273.webp"
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
+          "image_file": "file_15669274.webp"
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
+          "image_file": "file_15669275.webp"
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
+          "image_file": "file_15669276.webp"
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
+          "image_file": "file_15669277.webp"
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
+          "image_file": "file_15669278.webp"
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "file_15669279.webp"
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
+          "image_file": "file_15669280.webp"
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
+          "image_file": "file_15669281.webp"
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
+          "image_file": "file_15669282.webp"
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
+          "image_file": "file_15669283.webp"
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
+          "image_file": "file_15669284.webp"
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
+          "image_file": "file_15669285.webp"
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
+          "image_file": "file_15669286.webp"
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
+          "image_file": "file_15669287.webp"
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
+          "image_file": "file_15669288.webp"
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
+          "image_file": "file_15669289.webp"
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "file_15669290.webp"
+        },
+        {
+          "image_file": "file_15669291.webp"
+        },
+        {
+          "image_file": "file_15669292.webp"
+        },
+        {
+          "image_file": "file_15669293.webp"
         }
       ]
     }

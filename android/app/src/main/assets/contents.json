@@ -1199,7 +1199,108 @@
           "image_file": "file_15694305.webp"
         }
       ]
-    }
-
+    },
+    {
+      "identifier": "15",
+      "name": "Soraya",
+      "publisher": "Pedro",
+      "tray_image_file": "122791017.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_17288066.webp"
+        },
+        {
+          "image_file": "file_17288068.webp"
+        },
+        {
+          "image_file": "file_17288070.webp"
+        },
+        {
+          "image_file": "file_17288072.webp"
+        },
+        {
+          "image_file": "file_17288074.webp"
+        },
+        {
+          "image_file": "file_17288076.webp"
+        },
+        {
+          "image_file": "file_17288078.webp"
+        },
+        {
+          "image_file": "file_17288080.webp"
+        },
+        {
+          "image_file": "file_17288082.webp"
+        },
+        {
+          "image_file": "file_17288084.webp"
+        },
+        {
+          "image_file": "file_17288086.webp"
+        },
+        {
+          "image_file": "file_17288088.webp"
+        },
+        {
+          "image_file": "file_17288090.webp"
+        },
+        {
+          "image_file": "file_17288092.webp"
+        },
+        {
+          "image_file": "file_17288094.webp"
+        },
+        {
+          "image_file": "file_17288096.webp"
+        },
+        {
+          "image_file": "file_17288098.webp"
+        },
+        {
+          "image_file": "file_17288100.webp"
+        },
+        {
+          "image_file": "file_17288102.webp"
+        },
+        {
+          "image_file": "file_17288104.webp"
+        },
+        {
+          "image_file": "file_17288106.webp"
+        },
+        {
+          "image_file": "file_17288108.webp"
+        },
+        {
+          "image_file": "file_17288110.webp"
+        },
+        {
+          "image_file": "file_17288113.webp"
+        },
+        {
+          "image_file": "file_17288116.webp"
+        },
+        {
+          "image_file": "file_17288118.webp"
+        },
+        {
+          "image_file": "file_17288120.webp"
+        },
+        {
+          "image_file": "file_17288123.webp"
+        },
+        {
+          "image_file": "file_17288125.webp"
+        },
+        {
+          "image_file": "file_17288126.webp"
+        }
+        ]
+      }
   ]
 }
